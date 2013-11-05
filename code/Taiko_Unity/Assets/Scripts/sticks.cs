@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class sticks : MonoBehaviour {
-    public bool leapIsEnabled = false;  
+    public static bool leapIsEnabled = false;  
 	public float positionX;
 	public float positionY;
 	//public Transform target;
@@ -20,8 +20,8 @@ public class sticks : MonoBehaviour {
         { 
 			positionX = pxsLeapInput.GetHandAxis("Horizontal")*1.8f;
 			positionY = pxsLeapInput.GetHandAxis("Depth");			
-			Debug.Log (pxsLeapInput.GetHandAxis("Depth"));
-			Debug.LogError(positionY);
+			//Debug.Log (pxsLeapInput.GetHandAxis("Depth"));
+			//Debug.LogError(positionY);
 			transform.position = new Vector3(positionX, positionY, 0);
 		}
 		else{

@@ -85,7 +85,6 @@ public static class pxsLeapInput
 		if (m_Hand != null)
 		{
 			Vector3 PalmPosition = new Vector3(0,0,0);
-			Debug.LogError(PalmPosition);
 			Vector3 PalmNormal = new Vector3(0,0,0);
 			Vector3 PalmDirection = new Vector3(0,0,0);
 			if (scaled == true)

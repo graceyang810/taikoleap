@@ -162,6 +162,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Scripts\AutoLoadMenuScene.cs" />
      <Compile Include="Assets\Scripts\ButtonScripts\CallAfterEvents.cs" />
+     <Compile Include="Assets\Scripts\Button_leap_secenMenu.cs" />
      <Compile Include="Assets\Scripts\LoadLevelOnClick.cs" />
      <Compile Include="Assets\Scripts\ReturnMenuScene.cs" />
      <Compile Include="Assets\Scripts\Scene_Choose\DontdestroySong.cs" />
