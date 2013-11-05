@@ -172,7 +172,9 @@
      <Compile Include="Assets\Scripts\Scene_Play\DotsCollision.cs" />
      <Compile Include="Assets\Scripts\Scene_Play\DrumBeaten.cs" />
      <Compile Include="Assets\Scripts\Scene_Play\HitCountShow.cs" />
-     <Compile Include="Assets\Scripts\Scene_Play\ResultData.cs" />
+     <Compile Include="Assets\Scripts\Scene_Result\ResultData.cs" />
+     <Compile Include="Assets\Scripts\Scene_Result\ResultLabelShow.cs" />
+     <Compile Include="Assets\Scripts\Scene_Result\Result_returnScene.cs" />
      <Compile Include="Assets\Scripts\TweenPosition.cs" />
      <Compile Include="Assets\Scripts\jumpLevel.cs" />
      <Compile Include="Assets\Scripts\jumpLevel_about.cs" />

@@ -97,21 +97,33 @@ public class DotsCollision : MonoBehaviour {
 		if(distance < BoundaryCool_left)
 			collisionState = CollisionState.miss;
 		
-		if(collisionState != CollisionState.init && collisionState != CollisionState.miss){
 			
-			DrumBeaten.HitCount++;
-			gameObject.GetComponent<UISprite>().spriteName = "empty";
-			
-			collisionHandled = true;
-		}
+		switch(collisionState){
+			case CollisionState.perfect:
+				DrumBeaten.HitCount++;
+				gameObject.GetComponent<UISprite>().spriteName = "empty";
+				ResultData.Count_Perfect++;
+				break;
+			case CollisionState.cool:
+				DrumBeaten.HitCount++;
+				gameObject.GetComponent<UISprite>().spriteName = "empty";
+				ResultData.Count_Cool++;
+				break;
+			case CollisionState.miss:
+				if(DrumBeaten.HitCount > ResultData.MaxCombo)
+					ResultData.MaxCombo = DrumBeaten.HitCount;
+				DrumBeaten.HitCount = 0;
+				ResultData.Count_Miss++;
+				break;
+			default:
+				break;
+			}
 		
-		if(collisionState == CollisionState.miss){
+		if(collisionState != CollisionState.init){
 				
 			collisionHandled = true;
-			DrumBeaten.HitCount = 0;
 		}
-		
-		
+				
 		drumBeatenEvent = DrumBeatenEvent.Idle;
 		collisionState = CollisionState.init;
 		
