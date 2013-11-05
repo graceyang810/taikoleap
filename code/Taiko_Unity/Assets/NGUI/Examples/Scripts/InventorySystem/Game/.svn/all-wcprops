@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game
+END
+UICursor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs
+END
+UIItemSlot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs
+END
+UIItemStorage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemStorage.cs
+END
+EquipRandomItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs
+END
+UIStorageSlot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIStorageSlot.cs
+END
+EquipItems.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs
+END
+UIEquipmentSlot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIEquipmentSlot.cs
+END

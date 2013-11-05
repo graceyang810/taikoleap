@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction
+END
+UIImageButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIImageButton.cs
+END
+UIButtonKeyBinding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonKeyBinding.cs
+END
+UIButtonMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs
+END
+UISoundVolume.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UISoundVolume.cs
+END
+UICenterOnChild.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UICenterOnChild.cs
+END
+UIButtonOffset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonOffset.cs
+END
+UISlider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UISlider.cs
+END
+UIScrollBar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIScrollBar.cs
+END
+UIButtonScale.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonScale.cs
+END
+UIButtonSound.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonSound.cs
+END
+UIDraggablePanel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs
+END
+LanguageSelection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/LanguageSelection.cs
+END
+UISavedOption.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UISavedOption.cs
+END
+UICheckboxControlledComponent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UICheckboxControlledComponent.cs
+END
+UIButtonPlayAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonPlayAnimation.cs
+END
+UISliderColors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UISliderColors.cs
+END
+UIButtonKeys.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonKeys.cs
+END
+UIButtonColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonColor.cs
+END
+UIButtonTween.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonTween.cs
+END
+UIDraggableCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIDraggableCamera.cs
+END
+UIGrid.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIGrid.cs
+END
+UIDragCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIDragCamera.cs
+END
+UICheckbox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UICheckbox.cs
+END
+UITable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UITable.cs
+END
+UIForwardEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIForwardEvents.cs
+END
+UIButtonRotation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonRotation.cs
+END
+UIButtonActivate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButtonActivate.cs
+END
+UIPopupList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIPopupList.cs
+END
+UICheckboxControlledObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs
+END
+UIDragObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIDragObject.cs
+END
+UIInputValidator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIInputValidator.cs
+END
+UIDragPanelContents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIDragPanelContents.cs
+END
+UIButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Interaction/UIButton.cs
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play
+END
+HitCountShow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/52/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play/HitCountShow.cs
+END
+DotsCollision.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/52/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play/DotsCollision.cs
+END
+DrumBeaten.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/52/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play/DrumBeaten.cs
+END
+DotsCollision2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/52/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play/DotsCollision2.cs
+END
+DEFINE_NumberString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/42/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play/DEFINE_NumberString.cs
+END

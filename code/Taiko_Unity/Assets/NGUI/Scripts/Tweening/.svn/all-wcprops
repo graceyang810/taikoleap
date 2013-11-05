@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening
+END
+TweenFOV.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenFOV.cs
+END
+TweenTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenTransform.cs
+END
+AnimatedColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/AnimatedColor.cs
+END
+TweenColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenColor.cs
+END
+TweenRotation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenRotation.cs
+END
+SpringPosition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/SpringPosition.cs
+END
+UITweener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/UITweener.cs
+END
+TweenAlpha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenAlpha.cs
+END
+AnimatedAlpha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/AnimatedAlpha.cs
+END
+TweenOrthoSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenOrthoSize.cs
+END
+TweenScale.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenScale.cs
+END
+TweenVolume.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Tweening/TweenVolume.cs
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI
+END
+UILabel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UILabel.cs
+END
+UIViewport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIViewport.cs
+END
+UITextList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UITextList.cs
+END
+UIInputSaved.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIInputSaved.cs
+END
+UIRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIRoot.cs
+END
+UIFilledSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIFilledSprite.cs
+END
+UICamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UICamera.cs
+END
+UITiledSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UITiledSprite.cs
+END
+UISlicedSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UISlicedSprite.cs
+END
+UITooltip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UITooltip.cs
+END
+UIPanel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIPanel.cs
+END
+UIInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIInput.cs
+END
+UITexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UITexture.cs
+END
+UILocalize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UILocalize.cs
+END
+UIOrthoCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIOrthoCamera.cs
+END
+UIAtlas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIAtlas.cs
+END
+UISpriteAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UISpriteAnimation.cs
+END
+UIFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIFont.cs
+END
+UISprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UISprite.cs
+END
+UIAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIAnchor.cs
+END
+UIStretch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/UI/UIStretch.cs
+END

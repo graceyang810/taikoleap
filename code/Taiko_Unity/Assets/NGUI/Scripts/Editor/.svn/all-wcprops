@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor
+END
+UIFilledSpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIFilledSpriteInspector.cs
+END
+UITiledSpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UITiledSpriteInspector.cs
+END
+UIDrawCallInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs
+END
+UISlicedSpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UISlicedSpriteInspector.cs
+END
+UICameraTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UICameraTool.cs
+END
+UIPopupListInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIPopupListInspector.cs
+END
+UITextureInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UITextureInspector.cs
+END
+UICreateWidgetWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs
+END
+UIAtlasInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs
+END
+NGUIEditorTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs
+END
+UISpriteAnimationInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs
+END
+UIFontInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIFontInspector.cs
+END
+UISpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UISpriteInspector.cs
+END
+UIPanelTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIPanelTool.cs
+END
+NGUIJson.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/NGUIJson.cs
+END
+ComponentSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/ComponentSelector.cs
+END
+UILabelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UILabelInspector.cs
+END
+SpriteSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/SpriteSelector.cs
+END
+UIScrollBarInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIScrollBarInspector.cs
+END
+UIWidgetInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs
+END
+UIAtlasMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs
+END
+NGUISettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/NGUISettings.cs
+END
+UIFontMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIFontMaker.cs
+END
+UIPanelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIPanelInspector.cs
+END
+UITexturePacker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UITexturePacker.cs
+END
+NGUITransformInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs
+END
+NGUIMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/NGUIMenu.cs
+END
+NGUISelectionTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs
+END
+UICreateNewUIWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs
+END
+UIImageButtonInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+END
+UISliderInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/UISliderInspector.cs
+END
+BMFontReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Scripts/Editor/BMFontReader.cs
+END

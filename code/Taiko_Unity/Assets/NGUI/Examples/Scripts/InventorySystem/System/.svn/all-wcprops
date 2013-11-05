@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/System
+END
+InvAttachmentPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvAttachmentPoint.cs
+END
+InvDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvDatabase.cs
+END
+InvEquipment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs
+END
+InvGameItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs
+END
+InvBaseItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvBaseItem.cs
+END
+InvStat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvStat.cs
+END
