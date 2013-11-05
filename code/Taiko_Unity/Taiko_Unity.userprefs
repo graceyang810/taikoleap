@@ -1,18 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-<<<<<<< .mine
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scene_Play/DotsCollision.cs">
-=======
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ReturnMenuScene.cs">
->>>>>>> .r54
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/sticks.cs">
     <Files>
-<<<<<<< .mine
-      <File FileName="Assets/Scripts/Scene_Play/DotsCollision.cs" Line="91" Column="12" />
-      <File FileName="Assets/Scripts/Scene_Play/DrumBeaten.cs" Line="40" Column="3" />
-=======
-      <File FileName="Assets/Scripts/DontdestroySong.cs" Line="6" Column="2" />
-      <File FileName="Assets/Scripts/ReturnMenuScene.cs" Line="17" Column="14" />
->>>>>>> .r54
+      <File FileName="Assets/Scripts/sticks.cs" Line="14" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -63,12 +63,6 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/*8.png
 END
-ren.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/ren.png
-END
 hit.png
 K 25
 svn:wc:ra_dav:version-url
@@ -80,6 +74,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/5000.png
+END
+ren.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/ren.png
 END
 zhong.png
 K 25
@@ -111,23 +111,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/*12.png
 END
-0.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/0.png
-END
 combo.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/combo.png
 END
-10000.png
+0.png
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/10000.png
+V 72
+/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/0.png
 END
 *16.png
 K 25
@@ -141,11 +135,11 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/1.png
 END
-2.png
+10000.png
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/2.png
+V 76
+/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/10000.png
 END
 drum_red.png
 K 25
@@ -153,17 +147,23 @@ svn:wc:ra_dav:version-url
 V 79
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/drum_red.png
 END
-huang.png
+2.png
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/huang.png
+V 72
+/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/2.png
 END
 3.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/42/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/3.png
+END
+huang.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/huang.png
 END
 4.png
 K 25
@@ -195,17 +195,17 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/7.png
 END
-8.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/!svn/ver/42/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/8.png
-END
 hits.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/!svn/ver/17/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/hits.png
+END
+8.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/42/trunk/code/Taiko_Unity/Assets/Textures/Scene_Play/8.png
 END
 9.png
 K 25

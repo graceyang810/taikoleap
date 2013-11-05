@@ -1,14 +1,14 @@
 10
 
 dir
-54
-https://liaoyicong2%40gmail.com@taiko.googlecode.com/svn/trunk/code/Taiko_Unity
-https://liaoyicong2%40gmail.com@taiko.googlecode.com/svn
+53
+https://graceyang1209%40gmail.com@taiko.googlecode.com/svn/trunk/code/Taiko_Unity
+https://graceyang1209%40gmail.com@taiko.googlecode.com/svn
 
 
 
-2013-11-04T12:34:32.532787Z
-54
+2013-11-03T05:53:21.295455Z
+46
 wj8696296@gmail.com
 
 
@@ -23,16 +23,16 @@ wj8696296@gmail.com
 
 
 
-
+incomplete
 e7d78819-b0a0-8fe3-826c-72cfcd8051af
 
 Assembly-CSharp-Editor.csproj
 file
+47
 
 
 
-
-2013-11-03T07:02:35.000000Z
+2013-11-04T13:27:47.000000Z
 98cc5c20e17b5f9446cd37b85e2c4aaf
 2013-11-03T06:55:10.424961Z
 47
@@ -69,44 +69,22 @@ file
 
 
 
-2013-11-04T14:02:28.000000Z
-eb62a50708b4a61942756abe1a37e926
-2013-11-04T12:34:32.532787Z
-54
+
+8880d970891de2bb586db5224d5e1be9
+2013-11-04T07:42:16.047920Z
+53
 wj8696296@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15456
 
 Library
 dir
 
 Assembly-CSharp-Editor-vs.csproj
 file
+47
 
 
 
-
-2013-11-03T07:02:35.000000Z
+2013-11-03T06:43:58.000000Z
 680eb947fff30ac0b493a8616589503a
 2013-11-03T06:55:10.424961Z
 47
@@ -139,79 +117,117 @@ dir
 
 Taiko_Unity-csharp.sln
 file
+52
+
+
+
+2013-11-04T07:32:30.000000Z
+341f8201e2541cdcc1c99188d000191c
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 
 
 
 
 
-5d313a0e75fea1bef39f14d01decf6c7
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
 
 
 
 
 
-Taiko_Unity-csharp.sln.r53
-Taiko_Unity-csharp.sln.r54
-Taiko_Unity-csharp.sln.mine
+
+
+
+
+
+
+
+
+
+
+
+2070
 
 Assembly-CSharp.pidb
 file
+52
 
 
 
-
-
-99f17d51e532b2700e2ce454146f1e19
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
+2013-11-04T07:32:46.000000Z
+1d737b1903daee7e488b673ac7dd58dd
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 has-props
 
 
 
 
-Assembly-CSharp.pidb.r53
-Assembly-CSharp.pidb.r54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+369380
 
 Taiko_Unity.sln
 file
+52
+
+
+
+2013-11-04T07:32:30.000000Z
+76e7adfef01b481bae8558ae7019f11b
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 
 
 
 
 
-8959f80314253cdbae9b48b80efe987e
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
 
 
 
 
 
-Taiko_Unity.sln.r53
-Taiko_Unity.sln.r54
-Taiko_Unity.sln.mine
+
+
+
+
+
+
+
+
+
+
+
+2063
 
 Assembly-CSharp.csproj
 file
+52
 
 
 
-
-2013-11-04T14:02:28.000000Z
-eb62a50708b4a61942756abe1a37e926
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
-
-
-
-
-
+2013-11-04T07:32:30.000000Z
+3cbb3432d440c6fe72f9b2acd2ba4d4d
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 
 
 
@@ -228,39 +244,58 @@ wj8696296@gmail.com
 
 
 
-15456
+
+
+
+
+
+15316
 
 Taiko_Unity.userprefs
 file
+52
+
+
+
+2013-11-04T07:32:46.000000Z
+2e32183c4e266eef7e0d2cc85663d48e
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 
 
 
 
 
-30798ff232deadc654692c5ac6a8b1b5
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
 
 
 
 
 
-Taiko_Unity.userprefs.r53
-Taiko_Unity.userprefs.r54
-Taiko_Unity.userprefs.mine
+
+
+
+
+
+
+
+
+
+
+
+506
 
 Assembly-CSharp-Editor.pidb
 file
+46
 
 
 
-
-2013-11-04T07:45:47.000000Z
-6e04cd4906a06dfa8bb7511c8f082cca
-2013-11-04T07:42:16.047920Z
-53
-wj8696296@gmail.com
+2013-10-29T07:29:47.000000Z
+aeb1cbf358b3dee705700fc8f6a805da
+2013-10-29T08:26:50.523323Z
+39
+graceyang1209@gmail.com
 has-props
 
 
@@ -282,5 +317,5 @@ has-props
 
 
 
-110224
+110328
 

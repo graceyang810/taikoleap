@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{872C6F57-A32B-2762-12B8-8684DA55C973}") = "Taiko_Unity", "Assembly-CSharp-firstpass-vs.csproj", "{3D9BA513-7568-C6A8-F52B-5125CB7E0462}"
+EndProject
 Project("{872C6F57-A32B-2762-12B8-8684DA55C973}") = "Taiko_Unity", "Assembly-CSharp-vs.csproj", "{20467281-B92B-8481-B89B-F94010A6C68A}"
 EndProject
 Project("{872C6F57-A32B-2762-12B8-8684DA55C973}") = "Taiko_Unity", "Assembly-CSharp-Editor-vs.csproj", "{AA627D50-AF80-7F77-32DA-C1B8F6B7F969}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D9BA513-7568-C6A8-F52B-5125CB7E0462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9BA513-7568-C6A8-F52B-5125CB7E0462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9BA513-7568-C6A8-F52B-5125CB7E0462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9BA513-7568-C6A8-F52B-5125CB7E0462}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20467281-B92B-8481-B89B-F94010A6C68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20467281-B92B-8481-B89B-F94010A6C68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20467281-B92B-8481-B89B-F94010A6C68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,16 +29,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																																GlobalSection(MonoDevelopProperties) = preSolution
-=======
-																																																																									GlobalSection(MonoDevelopProperties) = preSolution
->>>>>>> .r54
-=======
-																																																											GlobalSection(MonoDevelopProperties) = preSolution
-=======
-																																																																		GlobalSection(MonoDevelopProperties) = preSolution
->>>>>>> .r52
->>>>>>> .r47
+																																																																																												GlobalSection(MonoDevelopProperties) = preSolution
 =======
 																	GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> .r36

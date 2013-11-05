@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/svn/!svn/ver/54/trunk/code/Taiko_Unity/Library
+/svn/!svn/ver/45/trunk/code/Taiko_Unity/Library
 END
 FailedAssetImports.txt
 K 25
@@ -25,13 +25,7 @@ assetDatabase3
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/svn/!svn/ver/54/trunk/code/Taiko_Unity/Library/assetDatabase3
-END
-expandedItems
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/54/trunk/code/Taiko_Unity/Library/expandedItems
+/svn/!svn/ver/53/trunk/code/Taiko_Unity/Library/assetDatabase3
 END
 BuildPlayer.prefs
 K 25
@@ -39,11 +33,17 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/!svn/ver/6/trunk/code/Taiko_Unity/Library/BuildPlayer.prefs
 END
+expandedItems
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/53/trunk/code/Taiko_Unity/Library/expandedItems
+END
 guidmapper
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/svn/!svn/ver/54/trunk/code/Taiko_Unity/Library/guidmapper
+/svn/!svn/ver/53/trunk/code/Taiko_Unity/Library/guidmapper
 END
 BuildSettings.asset
 K 25
@@ -55,7 +55,7 @@ InspectorExpandedItems.asset
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svn/!svn/ver/54/trunk/code/Taiko_Unity/Library/InspectorExpandedItems.asset
+/svn/!svn/ver/53/trunk/code/Taiko_Unity/Library/InspectorExpandedItems.asset
 END
 AssetServerCacheV3
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 77
 /svn/!svn/ver/47/trunk/code/Taiko_Unity/Library/EditorUserBuildSettings.asset
 END
-ProjectSettings.asset
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/6/trunk/code/Taiko_Unity/Library/ProjectSettings.asset
-END
 AnnotationManager
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/!svn/ver/6/trunk/code/Taiko_Unity/Library/AnnotationManager
+END
+ProjectSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/code/Taiko_Unity/Library/ProjectSettings.asset
 END
 AssetVersioning.db
 K 25

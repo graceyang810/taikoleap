@@ -35,9 +35,6 @@ public class HitCountShow : MonoBehaviour {
 		
 		
 		sp_units.spriteName = DEFINE_NumberString.number[hit_Units];
-//		if(hit_Decades == 0)
-//			sp_decades.spriteName = "empty";
-//		else
 			sp_decades.spriteName = DEFINE_NumberString.number[hit_Decades];
 	
 	}

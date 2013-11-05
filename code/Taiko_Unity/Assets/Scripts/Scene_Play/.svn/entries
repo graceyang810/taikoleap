@@ -1,9 +1,9 @@
 10
 
 dir
-54
-https://liaoyicong2%40gmail.com@taiko.googlecode.com/svn/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play
-https://liaoyicong2%40gmail.com@taiko.googlecode.com/svn
+53
+https://graceyang1209%40gmail.com@taiko.googlecode.com/svn/trunk/code/Taiko_Unity/Assets/Scripts/Scene_Play
+https://graceyang1209%40gmail.com@taiko.googlecode.com/svn
 
 
 
@@ -28,11 +28,11 @@ e7d78819-b0a0-8fe3-826c-72cfcd8051af
 
 HitCountShow.cs
 file
+52
 
 
 
-
-2013-11-04T07:45:35.000000Z
+2013-11-03T07:05:26.000000Z
 09f5637ad8f8fd2774809ffe6debf6ce
 2013-11-04T07:37:43.644778Z
 52
@@ -62,11 +62,11 @@ graceyang1209@gmail.com
 
 DotsCollision.cs
 file
+52
 
 
 
-
-2013-11-04T07:45:35.000000Z
+2013-11-04T07:28:15.000000Z
 40f09e8da5f41204fcc8f36b59b00582
 2013-11-04T07:37:43.644778Z
 52
@@ -96,11 +96,11 @@ graceyang1209@gmail.com
 
 DrumBeaten.cs
 file
+52
 
 
 
-
-2013-11-04T07:45:35.000000Z
+2013-11-04T07:11:26.000000Z
 f283b66bbff96f6132bd5b4448d384b1
 2013-11-04T07:37:43.644778Z
 52
@@ -130,11 +130,11 @@ graceyang1209@gmail.com
 
 DotsCollision2.cs
 file
+52
 
 
 
-
-2013-11-04T07:45:35.000000Z
+2013-11-04T07:32:56.000000Z
 7dbb9ed87f6241ee7a367a577cfaa825
 2013-11-04T07:37:43.644778Z
 52
@@ -164,11 +164,11 @@ graceyang1209@gmail.com
 
 DEFINE_NumberString.cs
 file
+46
 
 
 
-
-2013-11-03T07:02:28.000000Z
+2013-11-02T03:21:06.000000Z
 bc2478b00096b7d7ad95a3875ebae57e
 2013-11-02T04:48:00.840709Z
 42

@@ -35,12 +35,11 @@ public class DrumBeaten : MonoBehaviour {
 		{
 			beatenYellow = false;
 			beatenRed = false;
-	//		beatenHandled = false;
+			beatenHandled = false;
 		}
 	}
 	
 	void OnClick(){
-//		HitCount++;
 		if(drumType == DrumType.Yellow){
 			beatenYellow = true;
 			Debug.Log("DrumBeaten_yellow");

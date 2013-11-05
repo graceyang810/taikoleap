@@ -162,11 +162,9 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Scripts\AutoLoadMenuScene.cs" />
      <Compile Include="Assets\Scripts\ButtonScripts\CallAfterEvents.cs" />
-     <Compile Include="Assets\Scripts\DontdestroySong.cs" />
+     <Compile Include="Assets\Scripts\DragObject.cs" />
      <Compile Include="Assets\Scripts\LoadLevelOnClick.cs" />
      <Compile Include="Assets\Scripts\ReturnMenuScene.cs" />
-     <Compile Include="Assets\Scripts\Scene_Choose\DragObject.cs" />
-     <Compile Include="Assets\Scripts\Scene_Choose\Letgo.cs" />
      <Compile Include="Assets\Scripts\Scene_Play\DEFINE_NumberString.cs" />
      <Compile Include="Assets\Scripts\Scene_Play\DotsCollision.cs" />
      <Compile Include="Assets\Scripts\Scene_Play\DotsCollision2.cs" />

@@ -2,33 +2,32 @@ using UnityEngine;
 using System.Collections;
 public class ReturnMenuScene : MonoBehaviour
 {
-	
-
 	public string levelName;
-	public AudioSource s1;
-	public float volume = 1f;
-	public float pitch = 1f;
-	public int isDo=0;
+//	private bool loadFlag;
 	
-	void Update(){
-
+	void Start()
+	{
+		//loadFlag=false;
+	}
+	
+	void Update()
+	{
 		if(Input.GetMouseButtonDown(0))
-		{	
-			play();
-			isDo++;			
+//		if(loadFlag)
+		{			
+			Application.LoadLevel(levelName);
 		}
-		if(!s1.isPlaying && isDo>0)
-				Application.LoadLevel(levelName);
-		 
+		
 	}
-	void play(){
-		if(isDo==0)
+	
+	void OnMouseDown()
+	{
+	//	loadFlag=true;
+		
+/*		if (!string.IsNullOrEmpty(levelName))
 		{
-			s1.Play();
-			
+			Application.LoadLevel(levelName);
 		}
+*/
 	}
-	
-	
-	
 }

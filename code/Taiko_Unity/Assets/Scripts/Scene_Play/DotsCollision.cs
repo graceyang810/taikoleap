@@ -3,7 +3,7 @@ using System.Collections;
 
 public class DotsCollision : MonoBehaviour {
 	
-	public bool collisionHandled;//one dot 
+	private bool collisionHandled;//one dot 
 	
 	public enum DotType{
 		yellow,
@@ -60,21 +60,19 @@ public class DotsCollision : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {			
-		if(!collisionHandled){//the dot has not been handled
-			Debug.LogError(gameObject.GetComponent<UISprite>().spriteName+ ":"+ gameObject.transform.position.x);			
-			distance = gameObject.transform.position.x - target.transform.position.x;
-			Debug.LogError(gameObject.GetComponent<UISprite>().spriteName+ " distance:"+ distance);
+	void Update () {
 		
-			if(DrumBeaten.beatenYellow){
-				drumBeatenEvent = DrumBeatenEvent.YellowBeaten;
-				Debug.Log("beat yellow");
-				}
-			if(DrumBeaten.beatenRed){
-				drumBeatenEvent = DrumBeatenEvent.RedBeaten;
-				Debug.Log("beat red");
-				}
+		if(!collisionHandled){//the dot has not been handled
 			
+		distance = gameObject.transform.position.x - target.transform.position.x;
+		
+		if(DrumBeaten.beatenYellow){
+			drumBeatenEvent = DrumBeatenEvent.YellowBeaten;
+			DrumBeaten.beatenHandled = true;}
+		else if(DrumBeaten.beatenRed){
+			drumBeatenEvent = DrumBeatenEvent.RedBeaten;
+			DrumBeaten.beatenHandled = true;}
+		
 		if((dotType == DotType.yellow) && (drumBeatenEvent == DrumBeatenEvent.YellowBeaten))
 		{
 			if((distance < BoundaryCool_right) && (distance > BoundaryPerfect_right))
@@ -110,19 +108,12 @@ public class DotsCollision : MonoBehaviour {
 		if(collisionState == CollisionState.miss){
 				
 			collisionHandled = true;
-	//		DrumBeaten.HitCount = 0;
-		}
-		
-		if(drumBeatenEvent != DrumBeatenEvent.Idle){
-//			Debug.Log(drumBeatenEvent);
-//			Debug.Log(distance);
-//			Debug.Log(collisionState);
+			DrumBeaten.HitCount = 0;
 		}
 		
 		
 		drumBeatenEvent = DrumBeatenEvent.Idle;
 		collisionState = CollisionState.init;
-		DrumBeaten.beatenHandled = true;
 		
 		}
 	}

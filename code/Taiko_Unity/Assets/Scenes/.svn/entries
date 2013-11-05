@@ -1,14 +1,14 @@
 10
 
 dir
-54
-https://liaoyicong2%40gmail.com@taiko.googlecode.com/svn/trunk/code/Taiko_Unity/Assets/Scenes
-https://liaoyicong2%40gmail.com@taiko.googlecode.com/svn
+53
+https://graceyang1209%40gmail.com@taiko.googlecode.com/svn/trunk/code/Taiko_Unity/Assets/Scenes
+https://graceyang1209%40gmail.com@taiko.googlecode.com/svn
 
 
 
-2013-11-04T12:34:32.532787Z
-54
+2013-11-04T07:42:16.047920Z
+53
 wj8696296@gmail.com
 
 
@@ -28,34 +28,49 @@ e7d78819-b0a0-8fe3-826c-72cfcd8051af
 
 Scene_Welcome.unity
 file
+52
 
 
 
-
-
-0c95907a2f57373c99f841d6a5a7b743
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
+2013-11-03T07:42:47.000000Z
+f5c1bedb6513375d41b9b803d51b2dfa
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 has-props
 
 
 
 
-Scene_Welcome.unity.r53
-Scene_Welcome.unity.r54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21984
 
 Scene_Result.unity
 file
+52
 
 
 
-
-2013-11-04T14:02:15.000000Z
-a20533311e2b24e65b9a4d44613d5010
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
+2013-11-03T07:38:49.000000Z
+28fdf98272f889cac71dc480a62f561d
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 has-props
 
 
@@ -77,7 +92,7 @@ has-props
 
 
 
-37944
+33664
 
 Scene_Menu.unity
 file
@@ -85,10 +100,10 @@ file
 
 
 
-2013-11-04T14:02:15.000000Z
-903de0881b03fcc80f4becf0780c6b02
-2013-11-04T12:34:32.532787Z
-54
+2013-11-04T08:07:07.000000Z
+69632e07633a5f97c106923ef0f8609f
+2013-11-04T07:42:16.047920Z
+53
 wj8696296@gmail.com
 has-props
 
@@ -111,19 +126,19 @@ has-props
 
 
 
-41752
+41192
 
 Scene_Play.unity
 file
+52
 
 
 
-
-2013-11-04T14:02:15.000000Z
-b782fe614e31baca497e3ccef1d7f332
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
+2013-11-04T07:36:35.000000Z
+488033feef2d779f6f68ea96a5643c32
+2013-11-04T07:37:43.644778Z
+52
+graceyang1209@gmail.com
 has-props
 
 
@@ -145,7 +160,7 @@ has-props
 
 
 
-48864
+45312
 
 Scene_ChooseSong.unity
 file
@@ -153,7 +168,7 @@ file
 
 
 
-2013-11-04T07:45:35.000000Z
+2013-11-04T08:07:07.000000Z
 cd77c02ddcdca4d4dd39d886610eb489
 2013-11-04T07:42:16.047920Z
 53
@@ -183,15 +198,15 @@ has-props
 
 Scene_About.unity
 file
+46
 
 
 
-
-2013-11-04T14:02:15.000000Z
-183341c301281e0567a0c0807fa0b916
-2013-11-04T12:34:32.532787Z
-54
-wj8696296@gmail.com
+2013-10-29T08:11:34.000000Z
+c01b04f6db0e54e3089a9d0323a712fb
+2013-10-29T08:26:50.523323Z
+39
+graceyang1209@gmail.com
 has-props
 
 
@@ -213,5 +228,5 @@ has-props
 
 
 
-26240
+22576
 
