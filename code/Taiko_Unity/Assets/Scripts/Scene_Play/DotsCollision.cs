@@ -103,19 +103,23 @@ public class DotsCollision : MonoBehaviour {
 				DrumBeaten.HitCount++;
 				gameObject.GetComponent<UISprite>().spriteName = "empty";
 				ResultData.Count_Perfect++;
+				CollisionStateShow.collisionState = CollisionStateShow.CollisionState.perfect;
 				break;
 			case CollisionState.cool:
 				DrumBeaten.HitCount++;
 				gameObject.GetComponent<UISprite>().spriteName = "empty";
 				ResultData.Count_Cool++;
+				CollisionStateShow.collisionState = CollisionStateShow.CollisionState.cool;
 				break;
 			case CollisionState.miss:
 				if(DrumBeaten.HitCount > ResultData.MaxCombo)
 					ResultData.MaxCombo = DrumBeaten.HitCount;
 				DrumBeaten.HitCount = 0;
 				ResultData.Count_Miss++;
+				CollisionStateShow.collisionState = CollisionStateShow.CollisionState.miss;
 				break;
 			default:
+				CollisionStateShow.collisionState = CollisionStateShow.CollisionState.init;
 				break;
 			}
 		

@@ -1,20 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scene_Play/DotsCollision.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scene_Play/CollisionStateShow.cs">
     <Files>
-<<<<<<< HEAD
-      <File FileName="Assets/Scripts/sticks.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Scene_Play/DrumBeaten.cs" Line="27" Column="25" />
-      <File FileName="Assets/Scripts/Scene_Play/DotsCollision.cs" Line="1" Column="3106" />
-      <File FileName="Assets/Scripts/Scene_Result/ResultData.cs" Line="47" Column="14" />
-      <File FileName="Assets/Scripts/Scene_Result/ResultLabelShow.cs" Line="40" Column="47" />
-      <File FileName="Assets/Scripts/Scene_Result/Result_LoadScene.cs" Line="20" Column="4" />
-=======
-      <File FileName="Assets/Plugins/pxsLeapInput.cs" Line="19" Column="4" />
-      <File FileName="Assets/Scripts/sticks.cs" Line="28" Column="38" />
-      <File FileName="Assets/NGUI/Scripts/Interaction/UIButtonSound.cs" Line="22" Column="3" />
-      <File FileName="Assets/Scripts/Button_leap_secenMenu.cs" Line="7" Column="26" />
->>>>>>> d4ee6bed780eef93284c99698dff821dc67c84f8
+      <File FileName="../../../unity_Against1/Assets/Scripts/key_switch.cs" Line="19" Column="77" />
+      <File FileName="Assets/Scripts/Scene_Play/CollisionStateShow.cs" Line="103" Column="5" />
+      <File FileName="Assets/Scripts/Scene_Play/DotsCollision.cs" Line="49" Column="25" />
+      <File FileName="Assets/NGUI/Scripts/Internal/UIWidget.cs" Line="65" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
