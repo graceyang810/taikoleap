@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class sticks : MonoBehaviour {
-    public static bool leapIsEnabled = false;  
+    public static bool leapIsEnabled = true;  
 	public float positionX;
 	public float positionY;
 	//public Transform target;

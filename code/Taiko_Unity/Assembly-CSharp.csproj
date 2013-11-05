@@ -178,8 +178,12 @@
      <Compile Include="Assets\Scripts\Scene_Result\Result_LoadScene.cs" />
      <Compile Include="Assets\Scripts\Scene_Result\Result_returnScene.cs" />
      <Compile Include="Assets\Scripts\TweenPosition.cs" />
+     <Compile Include="Assets\Scripts\changeInput.cs" />
+     <Compile Include="Assets\Scripts\changeInput2.cs" />
+     <Compile Include="Assets\Scripts\changeInputAll.cs" />
      <Compile Include="Assets\Scripts\jumpLevel.cs" />
      <Compile Include="Assets\Scripts\jumpLevel_about.cs" />
+     <Compile Include="Assets\Scripts\scaleDrum.cs" />
      <Compile Include="Assets\Scripts\sticks.cs" />
      <None Include="Assets\Others\Fonts\Fantasy Font - Normal.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />

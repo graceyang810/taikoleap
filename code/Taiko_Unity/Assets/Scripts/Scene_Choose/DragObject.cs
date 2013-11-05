@@ -110,6 +110,7 @@ public class DragObject : IgnoreTimeScale
 			songs[m].transform.position=new Vector3(0.6f,(0.8f*(1-m)),0);
 		}
 		//init the alpha
+		playSound();
 		
 	}
 	void Update(){

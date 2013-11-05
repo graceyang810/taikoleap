@@ -25,7 +25,6 @@ public class ResultLabelShow : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
 		switch(resultItem) {
 		case ResultItem.Perfect:
 			label.text = ResultData.Count_Perfect.ToString();

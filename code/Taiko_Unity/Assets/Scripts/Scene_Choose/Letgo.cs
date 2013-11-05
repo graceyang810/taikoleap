@@ -20,7 +20,6 @@ public class Letgo : MonoBehaviour
 		OnPress,
 		OnRelease,
 	}
-
 	public string levelName;
 	public AudioSource s1;
 	public AudioSource s2;
