@@ -19,8 +19,9 @@ public class sticks : MonoBehaviour {
 		if(leapIsEnabled)  
         { 
 			positionX = pxsLeapInput.GetHandAxis("Horizontal")*1.8f;
-			positionY = pxsLeapInput.GetHandAxis("Depth")-0.5f;			
+			positionY = pxsLeapInput.GetHandAxis("Depth");			
 			Debug.Log (pxsLeapInput.GetHandAxis("Depth"));
+			Debug.LogError(positionY);
 			transform.position = new Vector3(positionX, positionY, 0);
 		}
 		else{
