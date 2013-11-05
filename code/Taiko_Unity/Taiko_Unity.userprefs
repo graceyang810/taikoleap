@@ -1,6 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/sticks.cs">
+=======
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scene_Play/CollisionStateShow.cs">
+    <Files>
+      <File FileName="../../../unity_Against1/Assets/Scripts/key_switch.cs" Line="19" Column="77" />
+      <File FileName="Assets/Scripts/Scene_Play/CollisionStateShow.cs" Line="103" Column="5" />
+      <File FileName="Assets/Scripts/Scene_Play/DotsCollision.cs" Line="49" Column="25" />
+      <File FileName="Assets/NGUI/Scripts/Internal/UIWidget.cs" Line="65" Column="20" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/pxsLeapInput.cs">
+>>>>>>> 459cdd0c0c254967229779bd5bdc426342dcf380
     <Files>
       <File FileName="Assets/Plugins/pxsLeapInput.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/jumpLevel.cs" Line="1" Column="1" />
@@ -9,7 +21,11 @@
       <File FileName="Assets/Scripts/Button_leap_secenMenu.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ReturnMenuScene.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/jumpLevel_about.cs" Line="1" Column="1" />
+<<<<<<< HEAD
       <File FileName="Assets/Scripts/Scene_Choose/DragObject.cs" Line="1" Column="1" />
+=======
+>>>>>>> f6f2648d9c689047f25fe48ffcb85ebc8ce87993
+>>>>>>> 459cdd0c0c254967229779bd5bdc426342dcf380
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
