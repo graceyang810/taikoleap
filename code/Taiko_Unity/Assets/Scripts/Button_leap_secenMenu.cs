@@ -16,6 +16,7 @@ public class Button_leap_secenMenu : MonoBehaviour {
 			cursor = GameObject.Find("stick");
 			//Debug.Log("find stick in leapstate");
 			leaphover();
+			//Debug.LogError(pxsLeapInput.GetHandAxis("Vertical"));
 		} else{
 			cursor = GameObject.Find("stick");
 			Debug.Log("find stick in mousestate");
@@ -27,7 +28,6 @@ public class Button_leap_secenMenu : MonoBehaviour {
 		distanceX = Mathf.Abs(transform.position.x - pxsLeapInput.GetHandAxis("Horizontal")+0.1f) -0.2f;
 		distanceY = Mathf.Abs(transform.position.y - pxsLeapInput.GetHandAxis("Depth")+ 0.1f)- 0.12f;
 		
-		//Debug.LogError(distanceX);
 		if(distanceY <= 0.1f && distanceX <= 0.1f){
 			//Debug.Log ("leap is hover");	
 			transform.localScale = new Vector3(1.2f, 3.0f, 0);

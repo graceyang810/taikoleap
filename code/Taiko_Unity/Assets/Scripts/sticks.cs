@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class sticks : MonoBehaviour {
-    public static bool leapIsEnabled = false;  
+    public static bool leapIsEnabled = true;  
 	public float positionX;
 	public float positionY;
 	//public Transform target;
@@ -17,11 +17,11 @@ public class sticks : MonoBehaviour {
 		//var screenPos = camera.WorldToScreenPoint (target.position);  
 		//print ("target is " + screenPos.x + " pixels from the left");  
 		if(leapIsEnabled)  
-        { 
+        { 	
+			positionX = jumpLevel.currentX;
+			positionY = jumpLevel.currentY;
 			positionX = pxsLeapInput.GetHandAxis("Horizontal")*1.8f;
-			positionY = pxsLeapInput.GetHandAxis("Depth");			
-			//Debug.Log (pxsLeapInput.GetHandAxis("Depth"));
-			//Debug.LogError(positionY);
+			positionY = pxsLeapInput.GetHandAxis("Depth");
 			transform.position = new Vector3(positionX, positionY, 0);
 		}
 		else{
